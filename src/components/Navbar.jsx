@@ -12,7 +12,7 @@ function Navbar() {
         {/* use to in replace of href*/}
         {/* <a className='font-extrabold text-3xl' href="/">Movies</a> */}
       <Link className='font-extrabold text-3xl'  to="/FILMVAULT-PROJECT/">Movies</Link>
-      <Link  className='font-extrabold text-3xl' to="/Watchlist">Watchlist</Link>
+      <Link  className='font-extrabold text-3xl' to="/Watchlist">WatchList</Link>
         </div>
 
     
