@@ -47,7 +47,7 @@ export default function App() {
 
         <Routes>
           <Route
-            path="/"
+            path="/FILMVAULT-PROJECT/"
             element={
               <>
                  <Banner /> <Movies removefromwatchlist={removewatchlist} addmovietowatchlist={addmovietowatchlist} watchlist={watchlist} />
