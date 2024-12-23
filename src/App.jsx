@@ -54,7 +54,7 @@ export default function App() {
               </>
             }
           />
-          <Route path="/Watchlist" element={< Watchlist Watchlist={watchlist} removefromwatchlist={removewatchlist} />} />
+          <Route path="/WatchList" element={< Watchlist Watchlist={watchlist} removefromwatchlist={removewatchlist} />} />
         </Routes>
       </BrowserRouter>
     </>
