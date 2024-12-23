@@ -13,9 +13,10 @@ function Navbar() {
         {/* <a className='font-extrabold text-3xl' href="/">Movies</a> */}
       <Link className='font-extrabold text-3xl'  to="/FILMVAULT-PROJECT/">Movies</Link>
 
-      <Link  className='font-extrabold text-3xl' to="/WatchList">WatchList</Link>
+    
 
-      <Link  className='font-extrabold text-3xl' to="/WatchList">Watchlist</Link>
+
+      <Link  className='font-extrabold text-3xl' to="/FILMVAULT-PROJECT/WatchList/">Watchlist</Link>
 
         </div>
 
