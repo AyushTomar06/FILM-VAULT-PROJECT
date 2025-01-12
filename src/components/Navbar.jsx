@@ -16,7 +16,7 @@ function Navbar() {
     
 
 
-      <Link  className='font-extrabold text-3xl' to="/WatchList">Watchlist</Link>
+      <Link  className='font-extrabold text-3xl' to="/FILM-VAULT-PROJECT/WatchList">Watchlist</Link>
 
         </div>
 

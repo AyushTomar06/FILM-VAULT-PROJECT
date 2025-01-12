@@ -54,7 +54,7 @@ export default function App() {
               </>
             }
           />
-          <Route path="/WatchList" element={< Watchlist Watchlist={watchlist} removefromwatchlist={removewatchlist} />} />
+          <Route path="/FILM-VAULT-PROJECT/WatchList" element={< Watchlist Watchlist={watchlist} removefromwatchlist={removewatchlist} />} />
         </Routes>
       </BrowserRouter>
     </>
