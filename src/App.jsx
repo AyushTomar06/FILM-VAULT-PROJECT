@@ -42,7 +42,7 @@ export default function App() {
   return (
 
     <>
-      <BrowserRouter>
+      <BrowserRouter basename="/FILM-VAULT-PROJECT"  >
         <Navbar />
 
         <Routes>
